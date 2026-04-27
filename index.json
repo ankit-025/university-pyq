@@ -1,0 +1,28 @@
+{
+  "files": [
+    {
+      "subject":  "Physics",
+      "year":     "2023",
+      "filename": "2023.pdf",
+      "url": "https://raw.githubusercontent.com/ankit-025/university-pyq/main/Physics/2023.pdf"
+    },
+    {
+      "subject":  "Physics",
+      "year":     "2022",
+      "filename": "2022.pdf",
+      "url": "https://raw.githubusercontent.com/ankit-025/university-pyq/main/Physics/2022.pdf"
+    },
+    {
+      "subject":  "Chemistry",
+      "year":     "2023",
+      "filename": "2023.pdf",
+      "url": "https://raw.githubusercontent.com/ankit-025/university-pyq/main/Chemistry/2023.pdf"
+    },
+    {
+      "subject":  "Mathematics",
+      "year":     "2023",
+      "filename": "2023.pdf",
+      "url": "https://raw.githubusercontent.com/ankit-025/university-pyq/main/Mathematics/2023.pdf"
+    }
+  ]
+}
